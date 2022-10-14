@@ -12,7 +12,7 @@ this would be helpful in increasing the safety measures.</p>
 Cascaded Convolutional Neural Network ) is used for face detection along with InceptionV3 for mask detection. The inceptionV3 was used for mask detection as it is good for training smallsized datasets with higher accuracy. The major module in the proposed architecture is the
 Face Recognition module. Face recognition can be done using various models namely FaceNet, VGG, and Deep Face models. In this system, FaceNet was used in the Face Recognition
 module.</p>
-<p>Advantages of FaceNet :</p>
+- Advantages of FaceNet :
  - FaceNet can identify similar faces having different facial expressions and angles(facial
 expressions).
  - FaceNet can handle various lighting conditions, occlusions and transformations efficiently.
