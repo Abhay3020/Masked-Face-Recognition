@@ -76,7 +76,7 @@ from 96x96 pixels to 224x224 pixels. It is widely used in cases where there is s
  - YoloV4
  - InceptionV3
  
-![Figure 4](Metric.png)
+![Figure 6](metric.png)
 
 ### Results for face recognition
 <p>For face recognition, FaceNet is used to give us accurate results. The accuracy obtained through FaceNet model is better as compared to other models . And the results obtained for
