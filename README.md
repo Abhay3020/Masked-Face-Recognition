@@ -68,12 +68,16 @@ from 96x96 pixels to 224x224 pixels. It is widely used in cases where there is s
 ## Results 
 ### Results for face mask detection
 <p>For face mask detection, we are using InceptionV3 model and we got accuracy for this model as 98%. and the results obtained for various cases are shown below.</p>
-![Figure 6](Res1.png)
-<p>Comparison of different models for face mask detection:</p>
+
+![Figure 5](Res1.png)
+
+- Comparison of different models for face mask detection:
  - MobileNetV2
  - YoloV4
  - InceptionV3
+ 
 ![Figure 4](Metric.png)
+
 ### Results for face recognition
 <p>For face recognition, FaceNet is used to give us accurate results. The accuracy obtained through FaceNet model is better as compared to other models . And the results obtained for
 various cases are shown in the following tables. </p>
