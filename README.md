@@ -64,10 +64,11 @@ vector embeddings as a feature extractor. FaceNet is trained using training face
 from 96x96 pixels to 224x224 pixels. It is widely used in cases where there is scarcity of dataset, and still it attains a good accuracy. </p>
 
 ![Figure 5](Framework1.png)
+
 ## Results 
 ### Results for face mask detection
 <p>For face mask detection, we are using InceptionV3 model and we got accuracy for this model as 98%. and the results obtained for various cases are shown below.</p>
-![Figure 4](Res1.png)
+![Figure 6](Res1.png)
 <p>Comparison of different models for face mask detection:</p>
  - MobileNetV2
  - YoloV4
@@ -77,7 +78,7 @@ from 96x96 pixels to 224x224 pixels. It is widely used in cases where there is s
 <p>For face recognition, FaceNet is used to give us accurate results. The accuracy obtained through FaceNet model is better as compared to other models . And the results obtained for
 various cases are shown in the following tables. </p>
 
-![Figure 4](Res2.png)
+![Figure 7](Res2.png)
 
 
 ## CONCLUSION AND FUTURE SCOPE
